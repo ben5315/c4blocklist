@@ -9,3 +9,4 @@ monitor.channel4.com
 sexperienceuk.channel4.com
 webstat.channel4.com
 webstats.channel4.com
+c4-ads-creative-prod.s3.eu-west-1.amazonaws.com
